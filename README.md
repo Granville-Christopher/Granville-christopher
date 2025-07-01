@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Granville Bucci
+# 👋 Hi, I’m Granville Christopher
 
 Welcome to my GitHub! I’m a **full-stack developer** and **system design enthusiast** passionate about building scalable, user-focused digital solutions.
 
