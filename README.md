@@ -1,31 +1,37 @@
-# 👋 Hi, I’m Granville Christopher
-
-Welcome to my GitHub! I’m a **full-stack developer** and **system design enthusiast** passionate about building scalable, user-focused digital solutions.
-
----
-
-## 💡 About Me
-
-- 🧑‍💻 **Profession:** Full-Stack Developer
-- 🚀 **Expertise:** JavaScript, TypeScript, React, Node.js, MongoDB, Firebase
-- 🏗️ **Strengths:** Full-stack development • Scalable system architecture • Cloud integration • Agile collaboration
-- ☁️ **Cloud Services, Database Design, Frontend Architecture**
-- 🤝 I thrive in cross-functional teams and take ownership from concept to deployment.
+#  Hi, I’m Granville Christopher
+Welcome to my GitHub! I’m a Full‑Stack Developer and System Design Enthusiast passionate about building scalable, user‑focused digital solutions that make an impact.
 
 ---
 
-## 🎯 Mission
-
-> **To lead and contribute to high-impact projects by engineering efficient systems, mentoring peers, and delivering clean, maintainable code that scales.**
+💡 About Me
+🧑‍💻 Profession: Full‑Stack Developer (Backend & DevOps‑Oriented)
+🚀 Expertise: JavaScript, TypeScript, React, Node.js, MongoDB, Firebase, Docker, Kubernetes
+🏗️ Strengths: Full‑stack development • Scalable system architecture • Containerized deployments • Agile collaboration
+☁️ Focus Areas: Cloud services • Database design • Frontend architecture • CI/CD fundamentals
+🤝 I thrive in cross‑functional teams and take ownership from concept to deployment, ensuring quality and performance every step of the way.
 
 ---
 
-## 🛠️ Technical Skills
+🎯 Mission
+To engineer efficient, secure, and scalable systems, mentor peers, and deliver clean, maintainable code that powers meaningful digital experiences.
 
-- **Languages:** JavaScript, TypeScript
-- **Frameworks/Libraries:** React, Node.js
-- **Databases:** MongoDB, Firebase
-- **Other:** Scalable architecture, Cloud integration, Agile teamwork
+🛠️ Technical Skills
+Languages: JavaScript (ES6+), TypeScript
+
+Frameworks/Libraries: React, Node.js, Express.js
+
+Databases: MongoDB, Firebase
+
+DevOps & Infrastructure: Docker, Kubernetes, Linux, Git/GitHub, CI/CD basics
+
+Other: Scalable architecture, API development, Cloud integration, Agile teamwork
+
+---
+🌟 What You’ll Find Here
+📂 Backend Projects – RESTful APIs, authentication systems, and server logic
+🎨 Frontend Work – Clean, responsive React apps and UI/UX prototypes
+⚙️ DevOps Experiments – Dockerized apps, Kubernetes practice setups
+🛡 Security & Ethical Hacking Demos – Safe, educational projects focused on secure coding
 
 ---
 
